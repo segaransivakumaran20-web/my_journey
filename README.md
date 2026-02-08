@@ -1,7 +1,7 @@
 # my_journey
 this is all about my daily coding and digital journal.
 date 08.02.2026
-time 9 to 10pm
+//time 9 to 10pm
 learned about recursion and linkedlist basics
 
 sample code for merge 2 sorted LL
@@ -10,7 +10,7 @@ sample code for merge 2 sorted LL
     ListNode* Msll(ListNode* l1,ListNode* l2);
       if (l1->val==nullptr){return l2;}
       if (l2->val==nullptr){return l1;}
-      // very base caseeee///
+      // very base caseeee/////
 
       if (l1->val<l2->val)
       {
